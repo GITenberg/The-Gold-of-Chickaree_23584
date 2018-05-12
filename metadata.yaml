@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4744
     wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23584#The-Gold-of-Chickaree
 gutenberg_issued: '2007-11-21'
 gutenberg_type: Text
 identifiers:
